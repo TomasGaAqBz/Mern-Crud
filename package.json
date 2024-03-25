@@ -1,0 +1,14 @@
+{
+  "name": "mern-crud-auth",
+  "version": "0.0.1",
+  "description": "Proyecto para tener guia de Stack Mern",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Aquino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
